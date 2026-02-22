@@ -122,7 +122,8 @@ nav a:not(.cart):hover {
     width: 500px;
     max-width: 100%;
     border-radius: 35px;
-    margin: 0;                    
+    margin: 0;    
+    animation: fadeInUp 0.8s ease forwards;
 }
 
 .aboutus-text {
@@ -131,7 +132,7 @@ nav a:not(.cart):hover {
     align-items: center;          
     text-align: center;
     gap: 30px;
-    margin: 40px;                   
+    margin: 40px;   
 }
 
 .about-us-hp {
